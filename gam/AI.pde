@@ -36,7 +36,7 @@ class AI {
 
 
   void mutation(){
-    for (int i = 0; i < me.length-10; i++) {
+    for (int i = 0; i < me.length; i++) {
       if (random(0, 1) >= 0.2){
         me[i].weights[int(random(0, 5))] += 0.1*random(-1, 1);
       }      
@@ -65,11 +65,11 @@ class AI {
     double jump = 0;
     double notJump = 0;
     
-    for (int i = 0; i < 5; i++){
+    for (int i = 0; i < 3; i++){
       notJump += me[j].inputs[i] * me[j].weights[i];
     }    
     
-    for (int i = 0; i < 5; i++){
+    for (int i = 0; i < 3; i++){
       jump += me[j].inputs[i] * me[j].weights2[i];
     }
     

@@ -19,11 +19,11 @@ class Player{
     
     if(first){
       for(int i = 0; i< weights.length; i++){
-        weights[i] = random(-1, 1);
+        weights[i] = random(-10, 10);
         println(weights[i]);
       }      
       for(int i = 0; i< weights2.length; i++){
-        weights2[i] = random(-1, 1);
+        weights2[i] = random(-10, 10);
         println(weights2[i]);
       }
     }
@@ -52,10 +52,17 @@ class Player{
     score ++;
     
     inputs[0] = this.y;
-    inputs[1] = obj.x;
-    inputs[2] = obj.hight;
-    inputs[3] = obj2.x;
-    inputs[4] = obj2.hight;    
+    
+    //  only closer object
+    if(obj.x > obj2.x){
+      inputs[1] = obj2.x;
+      inputs[2] = obj2.hight;   
+    } else{
+      inputs[1] = obj.x;
+      inputs[2] = obj.hight;
+    }
+    //inputs[3] = obj2.x;
+    //inputs[4] = obj2.hight;    
   }
 
   public void die(){
