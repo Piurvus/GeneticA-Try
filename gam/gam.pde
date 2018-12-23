@@ -20,7 +20,7 @@ void setup(){
 
   frameRate(100000000);
 
-  size(1600, 10);
+  size(1600, 800);
   background(255);
   
 }
@@ -33,11 +33,11 @@ boolean collision(int i){
   }
   return false;
 }
-void draw(){
+void draw2(){
  while (true) draw2(); 
 }
-void draw2(){
-  output.flush();
+void draw(){
+  //output.flush();
   if(keyPressed){
     if(key=='a')frameRate(100);
     if(key=='w')frameRate(1000);

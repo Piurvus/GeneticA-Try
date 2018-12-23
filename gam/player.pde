@@ -9,24 +9,32 @@ class Player{
   public float size = 50;
   float ySpeed = 0.0f;
   
-  public double inputs[] = new double[5];
-  public double weights[] = new double[5]; 
-  public double weights2[] = new double[5]; 
+  public double inputs[] = new double[5];//x
+ // public double weights[] = new double[5];
+//  public double weights2[] = new double[5];
+  public double weights1[][] = new double[5][10];//x,y
+  public double weights2[][] = new double[10][2];//x,y
   
   public Player(boolean first){
     x = 200;
     y = 500;
-    
+    println(weights1.length);
+    println(weights1[0].length);
     if(first){
-      for(int i = 0; i< weights.length; i++){
-        weights[i] = random(-10, 10);
+      for(int j=0;j<weights1.length;j++){
+        
+      for(int i = 0; i< weights1[j].length; i++){
+        weights1[j][i] = random(-10, 10);
         //println(weights[i]);
-      }      
-      for(int i = 0; i< weights2.length; i++){
-        weights2[i] = random(-10, 10);
-        //println(weights2[i]);
+      }    
+      }
+     for(int j=0;j<weights2.length;j++){
+      for(int i = 0; i< weights2[j].length; i++){
+        weights2[j][i] = random(-10, 10);
+        //println(weights[i]);
       }
     }
+  }
   }
   
   public void display(){
@@ -64,7 +72,7 @@ class Player{
       inputs[3] = obj.breite;
     }
     //inputs[3] = obj2.x;
-    //inputs[4] = obj2.hight;    
+    inputs[4] = 1;    
   }
 
   public void die(){
