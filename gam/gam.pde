@@ -1,10 +1,20 @@
 
-Player[] me = new Player[50];
+static Player[] me = new Player[50];
+static ArrayList<Player> sortme = new ArrayList<Player>();
+
+AI ai= new AI();
+
 Object obj = new Object();
 Object obj2 = new Object(150);
 
+static int genSize = 50;
+
 void setup(){
-    
+  
+  for(int i = 0; i < genSize; i++){
+    me[i] = new Player(true);
+  }
+
   size(1600, 600);
   background(255);
   
@@ -32,12 +42,29 @@ void draw(){
   obj.display();
   obj2.update();
   obj2.display();
-  for(int i=0;i<me.length;i++){
-    if(!me[i].dead){
-      me[i].update();
-      me[i].display();
-      if (collision(i)) me[i].die();
-    }
+  
+  for(int i = 0; i < me.length; i++){
+     if(!me[i].dead){
+       me[i].display();
+       break;
+     } 
+     if (i == me.length - 1){
+       ai.initializeNextGen();
+       delay(2000);
+     }
   }
   
+  int deathCount = 0;
+  for(int i = 0; i < me.length; i++){
+    if(!me[i].dead){
+      me[i].update();
+      ai.forwardProp(i);
+      if (collision(i)){ 
+        me[i].die();
+        sortme.add(me[i]);
+      }
+    } else deathCount++;
+  }
+  
+  println(deathCount);
 }
