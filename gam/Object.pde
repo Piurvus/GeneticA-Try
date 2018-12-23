@@ -22,7 +22,7 @@ class Object {
  }
  
  public void update(){
-  x-=4;
+  x-=3;
   if( x <= 0){
     respawn();
   }

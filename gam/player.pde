@@ -27,8 +27,6 @@ class Player{
         println(weights2[i]);
       }
     }
-    
-    
   }
   
   public void display(){
@@ -53,7 +51,7 @@ class Player{
     ySpeed += 0.2f;
     score ++;
     
-    inputs[0] = this.onGround;
+    inputs[0] = this.y;
     inputs[1] = obj.x;
     inputs[2] = obj.hight;
     inputs[3] = obj2.x;
