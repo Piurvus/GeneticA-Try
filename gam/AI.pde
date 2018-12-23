@@ -65,11 +65,11 @@ class AI {
     double jump = 0;
     double notJump = 0;
     
-    for (int i = 0; i < 3; i++){
+    for (int i = 0; i < 4; i++){
       notJump += me[j].inputs[i] * me[j].weights[i];
     }    
     
-    for (int i = 0; i < 3; i++){
+    for (int i = 0; i < 4; i++){
       jump += me[j].inputs[i] * me[j].weights2[i];
     }
     

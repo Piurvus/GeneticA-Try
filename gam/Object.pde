@@ -30,6 +30,9 @@ class Object {
  
  void respawn(){
    x = 1600+random(-100,100);
+   hight = (int)(100 + (float)random(0, 100));
+   y = 550 - hight;
+   breite = (int)(50 + (float)random(0, 50));
  }
  
 }

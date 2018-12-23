@@ -57,9 +57,11 @@ class Player{
     if(obj.x > obj2.x){
       inputs[1] = obj2.x;
       inputs[2] = obj2.hight;   
+      inputs[3] = obj2.breite;
     } else{
       inputs[1] = obj.x;
       inputs[2] = obj.hight;
+      inputs[3] = obj.breite;
     }
     //inputs[3] = obj2.x;
     //inputs[4] = obj2.hight;    

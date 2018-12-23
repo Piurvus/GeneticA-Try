@@ -1,4 +1,4 @@
-static int genSize = 50000;
+static int genSize = 500;
 static Player[] me = new Player[genSize];
 static ArrayList<Player> sortme = new ArrayList<Player>();
 
@@ -52,7 +52,7 @@ void draw(){
   for(int i = 0; i < me.length; i++){
     if(!me[i].dead){
       if(me[i].score >= score) score = me[i].score;
-      //me[i].display();
+      me[i].display();
     }
   }  
   for(int i = 0; i < me.length; i++){
