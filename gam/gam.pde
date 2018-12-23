@@ -1,5 +1,5 @@
 
-Player me = new Player();
+Player[] me = new Player[50];
 Object obj = new Object();
 Object obj2 = new Object(150);
 
@@ -10,10 +10,10 @@ void setup(){
   
 }
 
-boolean collision(){
-  if (obj.x <= me.x+me.size && obj.x+obj.breite >= me.x && obj.y <= me.y+me.size && obj.y+obj.hight >= me.y){
+boolean collision(int i){
+  if (obj.x <= me[i].x+me[i].size && obj.x+obj.breite >= me[i].x && obj.y <= me[i].y+me[i].size && obj.y+obj.hight >= me[i].y){
     return true;
-  } else if (obj2.x <= me.x+me.size && obj2.x+obj2.breite >= me.x && obj2.y <= me.y+me.size && obj2.y+obj2.hight >= me.y) {
+  } else if (obj2.x <= me[i].x+me[i].size && obj2.x+obj2.breite >= me[i].x && obj2.y <= me[i].y+me[i].size && obj2.y+obj2.hight >= me[i].y) {
     return true;
   }
   return false;
@@ -22,7 +22,7 @@ boolean collision(){
 void draw(){
   
   if(keyPressed){
-    me.jump();
+    me[1].jump();
   }
   
   background(255);
@@ -32,10 +32,12 @@ void draw(){
   obj.display();
   obj2.update();
   obj2.display();
-  if(!me.dead){
-    me.update();
-    me.display();
-    if (collision()) me.die();
+  for(int i=0;i<me.length;i++){
+    if(!me[i].dead){
+      me[i].update();
+      me[i].display();
+      if (collision(i)) me[i].die();
+    }
   }
   
 }
