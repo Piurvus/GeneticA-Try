@@ -54,7 +54,7 @@ class AI {
           me[i].weights1[int(random(0, me[i].weights1.length))][j] += 0.1*random(-1, 1);
         }   
       }
-      for(int j=0;j<me[i].weights1[0].length;j++){
+      for(int j=0;j<me[i].weights2[0].length;j++){
         if (random(0, 1) >= 0.2){
           me[i].weights2[int(random(0, me[i].weights2.length))][j] += 0.1*random(-1, 1);
         }   
@@ -82,16 +82,15 @@ class AI {
     
     double jump = 0;
     double notJump = 0;
+    double hidenneuron[] = new double[me[0].weights1[0].length];
+    double output[] = new double[me[0].weights2[0].length];
+    hidenneuron=Matrix.dotproduct(me[j].weights1,me[j].inputs);
+    hidenneuron=Matrix.activation(hidenneuron);
+    output=Matrix.dotproduct(me[j].weights2,hidenneuron);
+    //first is jump second is nonjump
     
-    for (int i = 0; i < 4; i++){
-      notJump += me[j].inputs[i] * me[j].weights1[i][0];
-    }    
     
-    for (int i = 0; i < 4; i++){
-      jump += me[j].inputs[i] * me[j].weights2[i][0];
-    }
-    
-    if(notJump < jump){
+    if(output[0] < output[1]){
       me[j].jump();
     }
     

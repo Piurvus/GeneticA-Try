@@ -11,7 +11,7 @@ public static class Matrix{
   return output;
   }
   public static double [] activation(double vector []){
-    for(int i=0; i<=vector.length ; i++){
+    for(int i=0; i<vector.length ; i++){
       if (vector[i] < 0) vector[i]=0; 
     }
     return vector;
