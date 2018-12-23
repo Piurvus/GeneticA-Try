@@ -1,0 +1,1107 @@
+
+Score: 2083
+Generation: 1
+
+
+2084
+[D@77c0bfdd
+
+[D@64079b7e
+
+Score: 2381
+Generation: 2
+
+
+2382
+[D@610bf6b8
+
+[D@448dbc55
+
+Score: 5208
+Generation: 3
+
+
+5209
+[D@36c1dd4e
+
+[D@6ec56c83
+
+Score: 5208
+Generation: 4
+
+
+3933
+[D@50c5f9d5
+
+[D@7983888c
+
+Score: 5208
+Generation: 5
+
+
+1461
+[D@4190015f
+
+[D@4f4dc9a
+
+Score: 5756
+Generation: 6
+
+
+5757
+[D@7b809680
+
+[D@1e22a694
+
+Score: 5756
+Generation: 7
+
+
+498
+[D@5f79d6f6
+
+[D@7d4bc18f
+
+Score: 11356
+Generation: 8
+
+
+11357
+[D@2806c30
+
+[D@91d6cf2
+
+Score: 11356
+Generation: 9
+
+
+2532
+[D@1842c541
+
+[D@3b26287f
+
+Score: 11356
+Generation: 10
+
+
+765
+[D@2806c30
+
+[D@91d6cf2
+
+Score: 11356
+Generation: 11
+
+
+9259
+[D@3a4632c7
+
+[D@58deb381
+
+Score: 11356
+Generation: 12
+
+
+210
+[D@3a4632c7
+
+[D@58deb381
+
+Score: 11356
+Generation: 13
+
+
+224
+[D@56380d16
+
+[D@5cd7b27e
+
+Score: 11356
+Generation: 14
+
+
+455
+[D@56380d16
+
+[D@5cd7b27e
+
+Score: 11356
+Generation: 15
+
+
+468
+[D@570c7329
+
+[D@7a6390f2
+
+Score: 11356
+Generation: 16
+
+
+8902
+[D@6ca56215
+
+[D@d8069bd
+
+Score: 11356
+Generation: 17
+
+
+457
+[D@39a1c61f
+
+[D@5fa335d9
+
+Score: 11356
+Generation: 18
+
+
+451
+[D@185141f2
+
+[D@16920ec4
+
+Score: 11356
+Generation: 19
+
+
+453
+[D@21b4a337
+
+[D@67ff4725
+
+Score: 11356
+Generation: 20
+
+
+197
+[D@21b4a337
+
+[D@67ff4725
+
+Score: 11356
+Generation: 21
+
+
+210
+[D@21b4a337
+
+[D@67ff4725
+
+Score: 11356
+Generation: 22
+
+
+210
+[D@21b4a337
+
+[D@67ff4725
+
+Score: 11356
+Generation: 23
+
+
+212
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 24
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 25
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 26
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 27
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 28
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 29
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 30
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 31
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 32
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 33
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 34
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 35
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 36
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 37
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 38
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 39
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 40
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 41
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 42
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 43
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 44
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 45
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 46
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 47
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 48
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 49
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 50
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 51
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 52
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 53
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 54
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 55
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 56
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 57
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 58
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 59
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 60
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 61
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 62
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 63
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 64
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 65
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 66
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 67
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 68
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 69
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 70
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 71
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 72
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 73
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 74
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 75
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 76
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 77
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 78
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 79
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 80
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 81
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 82
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 83
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 84
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 85
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 86
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 87
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 88
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 89
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 90
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 91
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 92
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 93
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 94
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 95
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 96
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 97
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 98
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 99
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 100
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 101
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 102
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 103
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 104
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 105
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 106
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 107
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 108
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 109
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 110
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 111
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 112
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 113
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 114
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 115
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 116
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 117
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 118
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 119
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 120
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 121
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 122
+
+
+210
+[D@7533d4f9
+
+[D@735110b5
+
+Score: 11356
+Generation: 123
+
+
+210
+[D@7533d4f9
+
+[D@735110b5

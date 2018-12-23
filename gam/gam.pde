@@ -20,7 +20,7 @@ void setup(){
 
   frameRate(100000000);
 
-  size(10, 10);
+  size(1600, 10);
   background(255);
   
 }

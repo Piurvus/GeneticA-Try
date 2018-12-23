@@ -1,0 +1,1521 @@
+
+Score: 10280
+Generation: 1
+
+
+10281
+[D@54410399
+
+[D@417c4af9
+
+Score: 10280
+Generation: 2
+
+
+5721
+[D@40902bf5
+
+[D@baef4e4
+
+Score: 10280
+Generation: 3
+
+
+9693
+[D@40902bf5
+
+[D@baef4e4
+
+Score: 10280
+Generation: 4
+
+
+7426
+[D@40902bf5
+
+[D@baef4e4
+
+Score: 10280
+Generation: 5
+
+
+5131
+[D@40902bf5
+
+[D@baef4e4
+
+Score: 10280
+Generation: 6
+
+
+3069
+[D@40902bf5
+
+[D@baef4e4
+
+Score: 10280
+Generation: 7
+
+
+3580
+[D@57af73c3
+
+[D@7427c04d
+
+Score: 10280
+Generation: 8
+
+
+8163
+[D@40902bf5
+
+[D@baef4e4
+
+Score: 10280
+Generation: 9
+
+
+9674
+[D@40902bf5
+
+[D@baef4e4
+
+Score: 10280
+Generation: 10
+
+
+3307
+[D@40902bf5
+
+[D@baef4e4
+
+Score: 10280
+Generation: 11
+
+
+3075
+[D@40902bf5
+
+[D@baef4e4
+
+Score: 10280
+Generation: 12
+
+
+2809
+[D@40902bf5
+
+[D@baef4e4
+
+Score: 10280
+Generation: 13
+
+
+2003
+[D@57af73c3
+
+[D@7427c04d
+
+Score: 10280
+Generation: 14
+
+
+4698
+[D@57af73c3
+
+[D@7427c04d
+
+Score: 10280
+Generation: 15
+
+
+1597
+[D@352982bf
+
+[D@49dc492a
+
+Score: 10280
+Generation: 16
+
+
+6682
+[D@40902bf5
+
+[D@baef4e4
+
+Score: 12185
+Generation: 17
+
+
+12186
+[D@40902bf5
+
+[D@baef4e4
+
+Score: 12185
+Generation: 18
+
+
+3599
+[D@65411ab9
+
+[D@2f2e8bf4
+
+Score: 12185
+Generation: 19
+
+
+5737
+[D@40902bf5
+
+[D@baef4e4
+
+Score: 12185
+Generation: 20
+
+
+487
+[D@56ebd8d4
+
+[D@7dd55e3a
+
+Score: 12185
+Generation: 21
+
+
+3628
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 12482
+Generation: 22
+
+
+12483
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 12482
+Generation: 23
+
+
+2028
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 12482
+Generation: 24
+
+
+1205
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 12482
+Generation: 25
+
+
+6492
+[D@432313ed
+
+[D@1450a13d
+
+Score: 12482
+Generation: 26
+
+
+12477
+[D@432313ed
+
+[D@1450a13d
+
+Score: 12482
+Generation: 27
+
+
+3917
+[D@432313ed
+
+[D@1450a13d
+
+Score: 12482
+Generation: 28
+
+
+5652
+[D@432313ed
+
+[D@1450a13d
+
+Score: 12762
+Generation: 29
+
+
+12763
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 12762
+Generation: 30
+
+
+3127
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 12762
+Generation: 31
+
+
+4745
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 12762
+Generation: 32
+
+
+4905
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 12762
+Generation: 33
+
+
+3564
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 12762
+Generation: 34
+
+
+1748
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 12762
+Generation: 35
+
+
+4932
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 12762
+Generation: 36
+
+
+2826
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 12762
+Generation: 37
+
+
+6280
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 12762
+Generation: 38
+
+
+7384
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 12762
+Generation: 39
+
+
+2810
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 12762
+Generation: 40
+
+
+4952
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 12762
+Generation: 41
+
+
+3294
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 12762
+Generation: 42
+
+
+2246
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 12762
+Generation: 43
+
+
+8418
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 12762
+Generation: 44
+
+
+3832
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 12762
+Generation: 45
+
+
+3622
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 12762
+Generation: 46
+
+
+9154
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 12762
+Generation: 47
+
+
+2057
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 12762
+Generation: 48
+
+
+8424
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 12762
+Generation: 49
+
+
+6802
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 12762
+Generation: 50
+
+
+4977
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 12762
+Generation: 51
+
+
+6614
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 12762
+Generation: 52
+
+
+4889
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 12762
+Generation: 53
+
+
+10739
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 12762
+Generation: 54
+
+
+2507
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 12762
+Generation: 55
+
+
+6028
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 12762
+Generation: 56
+
+
+3117
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 12762
+Generation: 57
+
+
+6577
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 12762
+Generation: 58
+
+
+3081
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 12762
+Generation: 59
+
+
+3614
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 12762
+Generation: 60
+
+
+12671
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 12762
+Generation: 61
+
+
+2251
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 12762
+Generation: 62
+
+
+2781
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14083
+Generation: 63
+
+
+14084
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14083
+Generation: 64
+
+
+5507
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14083
+Generation: 65
+
+
+6773
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14083
+Generation: 66
+
+
+2280
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14083
+Generation: 67
+
+
+4380
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14083
+Generation: 68
+
+
+8501
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14083
+Generation: 69
+
+
+3624
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14083
+Generation: 70
+
+
+6580
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14083
+Generation: 71
+
+
+12996
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14083
+Generation: 72
+
+
+2260
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14083
+Generation: 73
+
+
+2261
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14083
+Generation: 74
+
+
+954
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14083
+Generation: 75
+
+
+6817
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14083
+Generation: 76
+
+
+3353
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14083
+Generation: 77
+
+
+2804
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14083
+Generation: 78
+
+
+9225
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14083
+Generation: 79
+
+
+2526
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14083
+Generation: 80
+
+
+13548
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14083
+Generation: 81
+
+
+3125
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14083
+Generation: 82
+
+
+1465
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14083
+Generation: 83
+
+
+7126
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14083
+Generation: 84
+
+
+2013
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14083
+Generation: 85
+
+
+6937
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14083
+Generation: 86
+
+
+5753
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14083
+Generation: 87
+
+
+1483
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14083
+Generation: 88
+
+
+4418
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14083
+Generation: 89
+
+
+3316
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14083
+Generation: 90
+
+
+2237
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14083
+Generation: 91
+
+
+8178
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14083
+Generation: 92
+
+
+5731
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14083
+Generation: 93
+
+
+1492
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14083
+Generation: 94
+
+
+5759
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14083
+Generation: 95
+
+
+2549
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14083
+Generation: 96
+
+
+3600
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14083
+Generation: 97
+
+
+2220
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14083
+Generation: 98
+
+
+2267
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14083
+Generation: 99
+
+
+3579
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14083
+Generation: 100
+
+
+2620
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14083
+Generation: 101
+
+
+3923
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14083
+Generation: 102
+
+
+4692
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14083
+Generation: 103
+
+
+3323
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14083
+Generation: 104
+
+
+3036
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14083
+Generation: 105
+
+
+7381
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14083
+Generation: 106
+
+
+7654
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14083
+Generation: 107
+
+
+9689
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14083
+Generation: 108
+
+
+3812
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14083
+Generation: 109
+
+
+6604
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14083
+Generation: 110
+
+
+2034
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14083
+Generation: 111
+
+
+8949
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14083
+Generation: 112
+
+
+2557
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14837
+Generation: 113
+
+
+14838
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14837
+Generation: 114
+
+
+2536
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14837
+Generation: 115
+
+
+4680
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14837
+Generation: 116
+
+
+3633
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14837
+Generation: 117
+
+
+5629
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14837
+Generation: 118
+
+
+4388
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14837
+Generation: 119
+
+
+10041
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14837
+Generation: 120
+
+
+4086
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14837
+Generation: 121
+
+
+10542
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14837
+Generation: 122
+
+
+3613
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14837
+Generation: 123
+
+
+7286
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14837
+Generation: 124
+
+
+1752
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14837
+Generation: 125
+
+
+2263
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14837
+Generation: 126
+
+
+3343
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14837
+Generation: 127
+
+
+3113
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14837
+Generation: 128
+
+
+1482
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14837
+Generation: 129
+
+
+4179
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14837
+Generation: 130
+
+
+7570
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14837
+Generation: 131
+
+
+4592
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14837
+Generation: 132
+
+
+9236
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14837
+Generation: 133
+
+
+1995
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14837
+Generation: 134
+
+
+11363
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14837
+Generation: 135
+
+
+3626
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14837
+Generation: 136
+
+
+10240
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14837
+Generation: 137
+
+
+4661
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14837
+Generation: 138
+
+
+5253
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14837
+Generation: 139
+
+
+5267
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14837
+Generation: 140
+
+
+2009
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14837
+Generation: 141
+
+
+7372
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14837
+Generation: 142
+
+
+6043
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14837
+Generation: 143
+
+
+11903
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14837
+Generation: 144
+
+
+2546
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14837
+Generation: 145
+
+
+3104
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14837
+Generation: 146
+
+
+1983
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14837
+Generation: 147
+
+
+5202
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14837
+Generation: 148
+
+
+4701
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14837
+Generation: 149
+
+
+2027
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14837
+Generation: 150
+
+
+3346
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14837
+Generation: 151
+
+
+5770
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14837
+Generation: 152
+
+
+956
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14837
+Generation: 153
+
+
+8030
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14837
+Generation: 154
+
+
+5193
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14837
+Generation: 155
+
+
+3043
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14837
+Generation: 156
+
+
+5432
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14837
+Generation: 157
+
+
+2252
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14837
+Generation: 158
+
+
+2005
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14837
+Generation: 159
+
+
+11583
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14837
+Generation: 160
+
+
+12095
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14837
+Generation: 161
+
+
+9978
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14837
+Generation: 162
+
+
+6807
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14837
+Generation: 163
+
+
+6571
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14837
+Generation: 164
+
+
+7874
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14837
+Generation: 165
+
+
+2780
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14837
+Generation: 166
+
+
+7805
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14837
+Generation: 167
+
+
+3887
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14837
+Generation: 168
+
+
+3102
+[D@10ac07eb
+
+[D@4b065f21
+
+Score: 14837
+Generation: 169
+
+
+5412
+[D@10ac07eb
+
+[D@4b065f21

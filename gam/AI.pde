@@ -21,12 +21,14 @@ class AI {
     sortme = new ArrayList<Player>();
     
     
-    for (int i = me.length/8; i < me.length/4 -1; i++){
-       me[i].weights = me[i + me.length/2].weights;
-       me[i].weights2 = me[i + me.length/2].weights2;
+    for (int i = me.length/8; i < me.length/3 -1; i++){
+      //COPY OF BEST ONES
+       me[i].weights = me[i + me.length*2/3-1].weights;
+       me[i].weights2 = me[i + me.length*2/3-1].weights2;
     }
     
     for (int i = 0; i < me.length/8 -1; i++){
+      //ADDING 1/8 NEW ONES
       for ( int j = 0; j < 5; j++){
         me[i].weights[j] += random(-1, 1); 
         me[i].weights2[j] += random(-1, 1); 
@@ -61,14 +63,14 @@ class AI {
       
       int count = (int)random(0, 5);
       int count2 = (int)random(0, 5);
+      int a = (int)random(0, 5);
+      int b = (int)random(0, me.length/2 -1);
       for( int j = 0; j <= count; j++){
-        int a = (int)random(0, 5);
-        me[i].weights[a] = me[me.length/2 - 1 + (int)random(0, me.length/2 -1)].weights[a];
+        
+        me[i].weights[a] = me[me.length/2 - 1 + b].weights[a];
+        me[i].weights2[a] = me[me.length/2 - 1 + b].weights2[a];
       }      
-      for( int j = 0; j <= count2; j++){
-        int a = (int)random(0, 5);
-        me[i].weights2[a] = me[me.length/2 - 1 + (int)random(0, me.length/2 -1)].weights2[a];
-      }
+
     }
   }
 
