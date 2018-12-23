@@ -12,8 +12,8 @@ class Player{
   public double inputs[] = new double[8];//x
  // public double weights[] = new double[5];
 //  public double weights2[] = new double[5];
-  public double weights1[][] = new double[8][20];//x,y
-  public double weights2[][] = new double[20][2];//x,y
+  public double weights1[][] = new double[8][40];//x,y
+  public double weights2[][] = new double[40][2];//x,y
   
   public Player(boolean first){
     x = 200;

@@ -9,7 +9,7 @@ Object obj2 = new Object(150);
 
 int score = 0;
 int generation = 1;
-  
+int deathCount = 0;
 static PrintWriter output;
 
 void setup(){
@@ -37,6 +37,7 @@ void draw2(){
  while (true) draw2(); 
 }
 void draw(){
+  redraw();
   output.flush();
   if(keyPressed){
     if(key=='a')frameRate(100);
@@ -77,7 +78,7 @@ void draw(){
     }
   }
   
-  int deathCount = 0;
+  deathCount=0;
   for(int i = 0; i < me.length; i++){
     if(!me[i].dead){
       me[i].update();
@@ -91,5 +92,5 @@ void draw(){
       
   }}
   text(deathCount,0,565);
-  println(deathCount);
+  //println(deathCount);
 }

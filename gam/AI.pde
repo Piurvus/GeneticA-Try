@@ -11,15 +11,31 @@ class AI {
     println("\nScore: "+ score);
     println("Generation: "+ generation + "\n\n");
     println(me[me.length-1].score);
-    //println(me[me.length-1].weights);
-    //println(me[me.length-1].weights2);
+    //println(me[me.length-1].weights1[0]);
+    //println(me[me.length-1].weights2[0]);
     output.println("\nScore: "+ score);
     output.println("Generation: "+ generation + "\n\n");
     output.println(me[me.length-1].score);
     //output.println(me[me.length-1].weights+ "\n");
     //output.println(me[me.length-1].weights2);
     sortme = new ArrayList<Player>();
-    
+    //for(int k=0;k<me.length/2;k++){
+    //  if(me[k].score<500){
+    // for(int j=0;j<me[k].weights1.length;j++){
+        
+    //  for(int i = 0; i< me[k].weights1[j].length; i++){
+    //    me[k].weights1[j][i] = random(0, 1);
+    //    //println(weights[i]);
+    //  }    
+    //  }
+    // for(int j=0;j<me[k].weights2.length;j++){
+    //  for(int i = 0; i< me[k].weights2[j].length; i++){
+    //    me[k].weights2[j][i] = random(0, 1);
+    //    //println(weights[i]);
+    //  }
+    //}
+    //  }
+    //}
     
     for (int i = 0; i < me.length/3 -1; i++){
       //COPY OF BEST ONES
@@ -28,17 +44,12 @@ class AI {
     }
     for (int i = 0; i < me.length/3 -1; i++){
       //COPY OF BEST ONES
-       me[i+me.length/3 -1].weights1 = me[i + me.length*2/3-1].weights1;
-       me[i+me.length/3 -1].weights2 = me[i + me.length*2/3-1].weights2;
+       me[i+me.length/3 -1].weights1 = me[ me.length-1].weights1;
+       me[i+me.length/3 -1].weights2 = me[ me.length-1].weights2;
     }
-    //for (int i = 0; i < me.length/8 -1; i++){
-    //  //ADDING 1/8 NEW ONES
-    //  for ( int j = 0; j < 5; j++){
-    //    me[i].weights[j] += random(-1, 1); 
-    //    me[i].weights2[j] += random(-1, 1); 
-    //  }
-    //}
-      
+    
+
+     
     mutation();
     crossover();
     
@@ -52,15 +63,15 @@ class AI {
 
 
   void mutation(){
-    for (int i = 0; i < me.length*98/100; i++) {
+    for (int i = 0; i < me.length*9/10; i++) {
       for(int j=0;j<me[i].weights1[0].length;j++){
-        if (random(0, 1) >= 0.2){
-          me[i].weights1[int(random(0, me[i].weights1.length))][j] += 0.0001*random(-1, 1);
+        if (random(0, 1) >= 0.5){
+          me[i].weights1[int(random(0, me[i].weights1.length))][j] += 0.001*random(-1, 1)*log(i);
         }   
       }
       for(int j=0;j<me[i].weights2[0].length;j++){
-        if (random(0, 1) >= 0.2){
-          me[i].weights2[int(random(0, me[i].weights2.length))][j] += 0.0001*random(-1, 1);
+        if (random(0, 1) >= 0.5){
+          me[i].weights2[int(random(0, me[i].weights2.length))][j] += 0.001*random(-1, 1)*log(i);
         }   
       }
     }
