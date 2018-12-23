@@ -33,10 +33,10 @@ boolean collision(int i){
   }
   return false;
 }
-void draw(){
+void draw2(){
  while (true) draw2(); 
 }
-void draw2(){
+void draw(){
   output.flush();
   if(keyPressed){
     if(key=='a')frameRate(100);

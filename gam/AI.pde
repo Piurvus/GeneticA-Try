@@ -21,15 +21,15 @@ class AI {
     sortme = new ArrayList<Player>();
     
     
-    for (int i = me.length/8; i < me.length/3 -1; i++){
+    for (int i = 0; i < me.length/3 -1; i++){
       //COPY OF BEST ONES
        me[i].weights1 = me[i + me.length*2/3-1].weights1;
        me[i].weights2 = me[i + me.length*2/3-1].weights2;
     }
-    for (int i = 0; i < me.length/8 -1; i++){
+    for (int i = 0; i < me.length/3 -1; i++){
       //COPY OF BEST ONES
-       me[i].weights1 = me[ me.length-1].weights1;
-       me[i].weights2 = me[ me.length-1].weights2;
+       me[i+me.length/3 -1].weights1 = me[i + me.length*2/3-1].weights1;
+       me[i+me.length/3 -1].weights2 = me[i + me.length*2/3-1].weights2;
     }
     //for (int i = 0; i < me.length/8 -1; i++){
     //  //ADDING 1/8 NEW ONES
@@ -55,12 +55,12 @@ class AI {
     for (int i = 0; i < me.length*98/100; i++) {
       for(int j=0;j<me[i].weights1[0].length;j++){
         if (random(0, 1) >= 0.2){
-          me[i].weights1[int(random(0, me[i].weights1.length))][j] += 0.1*random(-1, 1);
+          me[i].weights1[int(random(0, me[i].weights1.length))][j] += 0.0001*random(-1, 1);
         }   
       }
       for(int j=0;j<me[i].weights2[0].length;j++){
         if (random(0, 1) >= 0.2){
-          me[i].weights2[int(random(0, me[i].weights2.length))][j] += 0.1*random(-1, 1);
+          me[i].weights2[int(random(0, me[i].weights2.length))][j] += 0.0001*random(-1, 1);
         }   
       }
     }
