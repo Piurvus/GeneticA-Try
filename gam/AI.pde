@@ -4,19 +4,29 @@ class AI {
   
   public void initializeNextGen(){
     
+
     for (int i = me.length-1; i > -1; i--){
       me[i] = sortme.get(i);
     }
-    
+    println("\nScore: "+ score);
+    println("Generation: "+ generation + "\n\n");
+    println(me[me.length-1].score);
+    println(me[me.length-1].weights);
+    println(me[me.length-1].weights2);
+    output.println("\nScore: "+ score);
+    output.println("Generation: "+ generation + "\n\n");
+    output.println(me[me.length-1].score);
+    output.println(me[me.length-1].weights+ "\n");
+    output.println(me[me.length-1].weights2);
     sortme = new ArrayList<Player>();
     
     
-    for (int i = 0; i < me.length/4 -1; i++){
+    for (int i = me.length/8; i < me.length/4 -1; i++){
        me[i].weights = me[i + me.length/2].weights;
        me[i].weights2 = me[i + me.length/2].weights2;
     }
     
-    for (int i = 0; i < me.length/5 -1; i++){
+    for (int i = 0; i < me.length/8 -1; i++){
       for ( int j = 0; j < 5; j++){
         me[i].weights[j] += random(-1, 1); 
         me[i].weights2[j] += random(-1, 1); 
@@ -36,7 +46,7 @@ class AI {
 
 
   void mutation(){
-    for (int i = 0; i < me.length; i++) {
+    for (int i = 0; i < me.length-1; i++) {
       if (random(0, 1) >= 0.2){
         me[i].weights[int(random(0, 5))] += 0.1*random(-1, 1);
       }      
