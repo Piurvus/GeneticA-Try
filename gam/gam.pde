@@ -1,6 +1,8 @@
 static int genSize = 500;
 static Player[] me = new Player[genSize];
 static ArrayList<Player> sortme = new ArrayList<Player>();
+Player bestPlayer = new Player(false);
+
 
 AI ai= new AI();
 
@@ -16,7 +18,7 @@ void setup(){
     me[i] = new Player(true);
   }
 
-  frameRate(100000000);
+  frameRate(1000000);
 
   size(1600, 600);
   background(255);
@@ -32,32 +34,42 @@ boolean collision(int i){
   return false;
 }
 
+boolean lulz = true;
+
 void draw(){
   
   if(keyPressed){
-    me[1].jump();
+    lulz = !lulz;
   }
   
   background(255);
   strokeWeight(5);
-  line(0, 550, 1600, 550);
   obj.update();
-  obj.display();
   obj2.update();
-  obj2.display();
+  if ( lulz ) {
+    line(0, 550, 1600, 550);
+    obj.display();
+    obj2.display();
+  }
   
   println("Score: "+ score);
   println("Generation: "+ generation + "\n\n");
   
   for(int i = 0; i < me.length; i++){
     if(!me[i].dead){
-      if(me[i].score >= score) score = me[i].score;
-      me[i].display();
+      if(me[i].score >= score) {
+        score = me[i].score;
+        bestPlayer.weights = me[i].weights;
+        bestPlayer.weights2 = me[i].weights2;
+      }
+      //me[i].display();
     }
   }  
   for(int i = 0; i < me.length; i++){
     if(!me[i].dead){
-      me[i].display();
+      if ( lulz ) {
+        me[i].display();
+      }
       break;
     } 
     if (i == me.length - 1){

@@ -9,22 +9,18 @@ class AI {
     }
     
     sortme = new ArrayList<Player>();
-    
-    
-    for (int i = 0; i < me.length/4 -1; i++){
-       me[i].weights = me[i + me.length/2].weights;
-       me[i].weights2 = me[i + me.length/2].weights2;
-    }
-    
-    for (int i = 0; i < me.length/5 -1; i++){
-      for ( int j = 0; j < 5; j++){
-        me[i].weights[j] += random(-1, 1); 
-        me[i].weights2[j] += random(-1, 1); 
-      }
+ 
+    for (int i = 0; i < me.length/4 ; i++){
+       for ( int j = 0; j < 5; j++){
+         me[i].weights[j] = me[me.length -1].weights[j];
+         me[i].weights2[j] = me[me.length -1].weights2[j];
+         me[i].weights[j] += random(-1, 1); 
+         me[i].weights2[j] += random(-1, 1); 
+       }
     }
       
-    mutation();
     crossover();
+    mutation();
     
     for (int i = 0; i < me.length; i++){
       me[i].dead = false;
@@ -36,12 +32,12 @@ class AI {
 
 
   void mutation(){
-    for (int i = 0; i < me.length; i++) {
+    for (int i = 0; i < me.length -1; i++) {
       if (random(0, 1) >= 0.2){
-        me[i].weights[int(random(0, 5))] += 0.1*random(-1, 1);
+        me[i].weights[int(random(0, 5))] += random(-1, 1);
       }      
       if (random(0, 1) >= 0.2){
-        me[i].weights2[int(random(0, 5))] += 0.1*random(-1, 1);
+        me[i].weights2[int(random(0, 5))] += random(-1, 1);
       }
     }
   }
