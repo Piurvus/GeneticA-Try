@@ -9,6 +9,9 @@ Object obj2 = new Object(150);
 
 static int genSize = 50;
 
+int score = 0;
+int generation = 1;
+
 void setup(){
   
   for(int i = 0; i < genSize; i++){
@@ -44,8 +47,13 @@ void draw(){
   obj.display();
   obj2.update();
   obj2.display();
+  
+  println("Score: "+ score);
+  println("Generation: "+ generation + "\n\n");
+  
   for(int i = 0; i < me.length; i++){
     if(!me[i].dead){
+      if(me[i].score >= score) score = me[i].score;
       me[i].display();
     }
   }  
@@ -56,6 +64,7 @@ void draw(){
     } 
     if (i == me.length - 1){
       ai.initializeNextGen();
+      generation++;
     }
   }
   
@@ -70,6 +79,4 @@ void draw(){
       }
     } else deathCount++;
   }
-  
-  println(deathCount);
 }
