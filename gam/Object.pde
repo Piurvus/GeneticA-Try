@@ -29,7 +29,7 @@ class Object {
  }
  
  void respawn(){
-   x = 1600;
+   x = 1600+random(-100,100);
  }
  
 }

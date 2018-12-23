@@ -1,5 +1,5 @@
-
-static Player[] me = new Player[50];
+static int genSize = 50;
+static Player[] me = new Player[genSize];
 static ArrayList<Player> sortme = new ArrayList<Player>();
 
 AI ai= new AI();
@@ -7,7 +7,7 @@ AI ai= new AI();
 Object obj = new Object();
 Object obj2 = new Object(150);
 
-static int genSize = 50;
+
 
 int score = 0;
 int generation = 1;
