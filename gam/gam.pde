@@ -15,6 +15,8 @@ void setup(){
     me[i] = new Player(true);
   }
 
+  frameRate(100000000);
+
   size(1600, 600);
   background(255);
   
@@ -42,16 +44,19 @@ void draw(){
   obj.display();
   obj2.update();
   obj2.display();
-  
   for(int i = 0; i < me.length; i++){
-     if(!me[i].dead){
-       me[i].display();
-       break;
-     } 
-     if (i == me.length - 1){
-       ai.initializeNextGen();
-       delay(2000);
-     }
+    if(!me[i].dead){
+      me[i].display();
+    }
+  }  
+  for(int i = 0; i < me.length; i++){
+    if(!me[i].dead){
+      me[i].display();
+      break;
+    } 
+    if (i == me.length - 1){
+      ai.initializeNextGen();
+    }
   }
   
   int deathCount = 0;
