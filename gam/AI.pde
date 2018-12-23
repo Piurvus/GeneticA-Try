@@ -52,10 +52,12 @@ class AI {
       int count = (int)random(0, 5);
       int count2 = (int)random(0, 5);
       for( int j = 0; j <= count; j++){
-        me[i].weights[(int)random(0, 5)] = me[me.length/2 - 1 + (int)random(0, me.length/2 -1)].weights[(int)random(0, 5)];
+        int a = (int)random(0, 5);
+        me[i].weights[a] = me[me.length/2 - 1 + (int)random(0, me.length/2 -1)].weights[a];
       }      
       for( int j = 0; j <= count2; j++){
-        me[i].weights2[(int)random(0, 5)] = me[me.length/2 - 1 + (int)random(0, me.length/2 -1)].weights2[(int)random(0, 5)];
+        int a = (int)random(0, 5);
+        me[i].weights2[a] = me[me.length/2 - 1 + (int)random(0, me.length/2 -1)].weights2[a];
       }
     }
   }
