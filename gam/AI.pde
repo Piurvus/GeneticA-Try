@@ -26,7 +26,11 @@ class AI {
        me[i].weights1 = me[i + me.length*2/3-1].weights1;
        me[i].weights2 = me[i + me.length*2/3-1].weights2;
     }
-    
+    for (int i = 0; i < me.length/8 -1; i++){
+      //COPY OF BEST ONES
+       me[i].weights1 = me[ me.length-1].weights1;
+       me[i].weights2 = me[ me.length-1].weights2;
+    }
     //for (int i = 0; i < me.length/8 -1; i++){
     //  //ADDING 1/8 NEW ONES
     //  for ( int j = 0; j < 5; j++){
@@ -36,7 +40,7 @@ class AI {
     //}
       
     mutation();
-    //crossover();
+    crossover();
     
     for (int i = 0; i < me.length; i++){
       me[i].dead = false;
@@ -62,21 +66,21 @@ class AI {
     }
   }
 
-  //void crossover(){
-  //  for (int i = 0; i < me.length*9/10; i++) {
+  void crossover(){
+    for (int i = 0; i < me.length*9/10; i++) {
       
-  //    int count = (int)random(0, 5);
-  //    int count2 = (int)random(0, 5);
-  //    int a = (int)random(0, 5);
-  //    int b = (int)random(0, me.length/2 -1);
-  //    for( int j = 0; j <= count; j++){
+      int count = (int)random(0, 5);
+      int count2 = (int)random(0, 5);
+      int a = (int)random(0, 5);
+      int b = (int)random(0, me.length/2 -1);
+      for( int j = 0; j <= count; j++){
         
-  //      me[i].weights[a] = me[me.length/2 - 1 + b].weights[a];
-  //      me[i].weights2[a] = me[me.length/2 - 1 + b].weights2[a];
-  //    }      
+        me[i].weights1 = me[me.length/2 - 1 + b].weights1;
+        //me[i].weights2[a] = me[me.length/2 - 1 + b].weights2[a];
+      }      
 
-  //  }
-  //}
+    }
+  }
 
   public void forwardProp(int j){
     
