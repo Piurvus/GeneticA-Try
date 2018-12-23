@@ -13,7 +13,7 @@ int generation = 1;
 static PrintWriter output;
 
 void setup(){
-  output = createWriter("positions"+minute()+second()+".txt"); 
+  output = createWriter("positions"+".txt"); 
   for(int i = 0; i < genSize; i++){
     me[i] = new Player(true);
   }
@@ -33,11 +33,11 @@ boolean collision(int i){
   }
   return false;
 }
-void draw2(){
+void draw(){
  while (true) draw2(); 
 }
-void draw(){
-  //output.flush();
+void draw2(){
+  output.flush();
   if(keyPressed){
     if(key=='a')frameRate(100);
     if(key=='w')frameRate(1000);
@@ -91,4 +91,5 @@ void draw(){
       
   }}
   text(deathCount,0,565);
+  println(deathCount);
 }
