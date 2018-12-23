@@ -1,0 +1,228 @@
+
+Score: 1271
+Generation: 1
+
+
+1272
+
+Score: 3900
+Generation: 2
+
+
+3901
+
+Score: 3900
+Generation: 3
+
+
+2351
+
+Score: 4772
+Generation: 4
+
+
+4773
+
+Score: 4772
+Generation: 5
+
+
+500
+
+Score: 4772
+Generation: 6
+
+
+734
+
+Score: 4772
+Generation: 7
+
+
+3090
+
+Score: 4772
+Generation: 8
+
+
+962
+
+Score: 4772
+Generation: 9
+
+
+488
+
+Score: 4772
+Generation: 10
+
+
+2603
+
+Score: 4772
+Generation: 11
+
+
+702
+
+Score: 4772
+Generation: 12
+
+
+1512
+
+Score: 4772
+Generation: 13
+
+
+3426
+
+Score: 4772
+Generation: 14
+
+
+3889
+
+Score: 4772
+Generation: 15
+
+
+2370
+
+Score: 4772
+Generation: 16
+
+
+2387
+
+Score: 4772
+Generation: 17
+
+
+499
+
+Score: 4772
+Generation: 18
+
+
+979
+
+Score: 4772
+Generation: 19
+
+
+1026
+
+Score: 4772
+Generation: 20
+
+
+702
+
+Score: 4772
+Generation: 21
+
+
+980
+
+Score: 4772
+Generation: 22
+
+
+451
+
+Score: 4772
+Generation: 23
+
+
+1770
+
+Score: 4772
+Generation: 24
+
+
+792
+
+Score: 4772
+Generation: 25
+
+
+958
+
+Score: 4772
+Generation: 26
+
+
+788
+
+Score: 4772
+Generation: 27
+
+
+982
+
+Score: 4772
+Generation: 28
+
+
+4714
+
+Score: 4772
+Generation: 29
+
+
+1005
+
+Score: 4772
+Generation: 30
+
+
+2938
+
+Score: 4772
+Generation: 31
+
+
+1567
+
+Score: 4772
+Generation: 32
+
+
+494
+
+Score: 4772
+Generation: 33
+
+
+1007
+
+Score: 4772
+Generation: 34
+
+
+698
+
+Score: 4772
+Generation: 35
+
+
+1868
+
+Score: 4772
+Generation: 36
+
+
+739
+
+Score: 4772
+Generation: 37
+
+
+492
+
+Score: 4772
+Generation: 38
+
+
+489
